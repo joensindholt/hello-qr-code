@@ -1,5 +1,4 @@
 (function () {
-    
     var cookieKey = 'mykey';
     var cookieValue = Cookies.get(cookieKey);
 
