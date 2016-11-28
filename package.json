@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/joensindholt/hello-qr-code.git"
   },
-  "author": "",
+  "author": "Joen Sindholt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/joensindholt/hello-qr-code/issues"
