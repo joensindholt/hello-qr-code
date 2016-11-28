@@ -1,0 +1,24 @@
+{
+  "name": "hello-qr-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joensindholt/hello-qr-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joensindholt/hello-qr-code/issues"
+  },
+  "homepage": "https://github.com/joensindholt/hello-qr-code#readme",
+  "devDependencies": {
+    "chromedriver": "^2.25.1",
+    "js-cookie": "^2.1.3",
+    "qrcode-generator": "^1.0.7"
+  }
+}
